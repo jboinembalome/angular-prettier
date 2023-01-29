@@ -1,27 +1,18 @@
-# AngularPrettier
+# Angular Prettier
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.4.
+Source code used in the article [Configure Prettier with Angular](https://www.blouppy.com/blog/2023-01-29-configure-prettier-with-angular/) on the [Blouppy](https://www.blouppy.com) website.
 
-## Development server
+## Project type
+- Angular project.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Project version
+- Angular 15. This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.4.
 
-## Code scaffolding
+## NPM packages includes
+- **prettier**: 2.8.3
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Give a Star! :star:
+If you like or are using this project please give it a star. Thanks!
 
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+## Support this project! :pray:
+If you want to help me to maintain this project or add improvements, it would be a pleasure!
